@@ -1,20 +1,20 @@
-# medical-courier-log-route-logistics
-
 # Medical Courier Log & Route Logistics Operating System & Dispatch Ledger
 
-Welcome to the official repository for the Medical Courier Log & Route Logistics framework—a permanent-ownership, break-proof back-office tracking ledger engineered exclusively for elite Microsoft Excel (.xlsx) workbooks and cloud Notion dashboards. Purpose-built for HIPAA-compliant independent medical couriers, laboratory specimen couriers, and pharma route dispatchers, this standalone architecture calculates multi-stop specimen chain of custody records, statutory mileage parameters, and agent route payouts natively on background automation.
+Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
-🔒 **100% Corporate Vault-Secured:** This Excel Ledger is completely Macro-Free, formula-locked, and guaranteed to clear all strict corporate firewalls instantly.
+<p align="center">
+  <img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px;">
+</p>
 
-## ⚙️ Core Operational Infrastructure Engaged
-* **HIPAA Chain of Custody Tracking:** Relational data rows monitoring specimen collection timestamps, cooler temperatures, destination medical lab registries, and delivery verification blocks.
-* **Route Mileage & Fuel Burn Matrices:** Hardcoded cell calculations tracking statutory travel distances, rush specimen surcharges, localized wait times, and total route maintenance expenses.
-* **Contractor Driver Payout Splits:** Live-updating arrays that calculate independent delivery contractor percentage cuts, flat-rate institutional billing variables, and absolute net profit margins per run.
+### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
+Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-## 📦 Procurement & Secure Download Gateway
-To bypass legacy monthly SaaS subscription software and initialize your break-proof digital download container, choose your native operational platform pipeline below:
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
 
-### 🔬 For Microsoft Excel Desktop Workspace ($149.00 One-Time Fee)
-👉 <a href="https://rentalengine.gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Medical Courier Excel OS Here</b></a>
+*⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
-*Developer Note: To bypass client drop-off, clicking procurement triggers a forced browser tab expansion loop. Developed by RentalEngine. Hardcoded macro-free integrity. All platform data rights reserved.*
+---
+
+Welcome to the off-grid documentation node for the specialized Back-Office Operating System framework—a break-proof enterprise ledger engineered exclusively for elite Microsoft Excel (.xlsx) local deployments. Designed explicitly to lower monthly business software overhead, this standalone layout handles commercial dispatch tracking, real-time job costing, operational cost burn, and true net margin profit calculations natively on background formula automation.
+
+🔒 **100% Corporate Vault-Secured:** This industrial spreadsheet utility is completely Macro-Free, formula-locked, and cleared of tracking scripts to instantly satisfy strict company data firewalls.
