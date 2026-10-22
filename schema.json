@@ -1,0 +1,14 @@
+{
+  "asset_class": "Medical Courier Route Logistics Ledger",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "route_logistics_ledger",
+    "specimen_manifest_logs",
+    "hipaa_chain_of_custody_blocks",
+    "mileage_and_expense_logs"
+  ]
+}
